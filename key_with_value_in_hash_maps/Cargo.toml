@@ -1,0 +1,7 @@
+[package]
+name = "key_with_value_in_hash_maps"
+version = "0.1.0"
+authors = ["fanquake <fanquake@gmail.com>"]
+edition = "2018"
+
+[dependencies]
